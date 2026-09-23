@@ -31,5 +31,5 @@ A **self-directed networking project** developed using **Cisco Packet Tracer** t
 ## Files
 
 - [Packet Tracer Project](./enterprise-network-design.pkt)
-- [Project Screenshots](./Img/)
+- [Project Screenshots](https://github.com/albanna435/enterprise-network-design/tree/main/Img)
 - [Case Study](./Case-Study.pdf)
