@@ -32,4 +32,4 @@ A **self-directed networking project** developed using **Cisco Packet Tracer** t
 
 * `enterprise-network-design.pkt` — Packet Tracer project
 * `Img/` — Project screenshots
-* `Case-Study.pdf` — Project documentation
+* `Case-Study.pdf` 
